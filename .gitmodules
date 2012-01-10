@@ -1,0 +1,9 @@
+[submodule "public/javascripts/scripts.js"]
+	path = public/javascripts/scripts.js
+	url = git://github.com/webmd/scripts.js.git
+[submodule "public\\javascripts\\answers"]
+	path = public\\javascripts\\answers
+	url = git://github.com/webmd/answers.git
+[submodule "public\\javascripts\\symptomchecker"]
+	path = public\\javascripts\\symptomchecker
+	url = git://github.com/webmd/symptomchecker.git
